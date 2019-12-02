@@ -1,2 +1,4 @@
-a=3
-print(a)
+countOfApple=3
+print(countOfApple)
+b=4
+print(b)
